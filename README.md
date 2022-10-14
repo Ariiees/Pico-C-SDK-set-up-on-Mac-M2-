@@ -98,6 +98,7 @@ Then set the **PICO_SDK_PATH** environment variable.
 Change directory into the **hellow_world** directory inside the **pico-examples/build** tree and run make.
 
 ```
+$ cmake ..
 $ cd hello_world
 $ make -j4
 ```
